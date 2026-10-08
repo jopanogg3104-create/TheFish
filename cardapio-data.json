@@ -1,29 +1,29 @@
 [
   {
     "title": "🔴Pratos do chef🔴",
-    "intro": "“Individual “",
+    "intro": "Individual",
     "category": 1,
     "blocks": [
       {
-        "text": "Camarão na moranga\nCreme de abóbora preparado com requeijão, mussarela e camarões sem cascas. Acompanha arroz, batata frita e salada.\n(Média de 6 unidades de camarão 32gr)\nR$68,00",
+        "text": "Camarão na moranga\nCreme de abóbora preparado com requeijão, mussarela e camarões sem casca. Acompanha arroz, batata frita e salada.\n(Média de 6 unidades de camarão 32 g)\nR$68,00",
         "ids": [
           0
         ]
       },
       {
-        "text": "Chiclete de camarão\nCamarão sem casca, finalizado com cream cheese e queijo mussarela. Acompanha arroz, batata frita e salada. (Média de 6 unidades de camarão 32gr)\nR$ 68,00",
+        "text": "Chiclete de camarão\nCamarão sem casca, finalizado com cream cheese e queijo mussarela. Acompanha arroz, batata frita e salada. (Média de 6 unidades de camarão 32 g)\nR$ 68,00",
         "ids": [
           1
         ]
       },
       {
-        "text": "Camarão havaiano\nPrato agridoce preparado com camarões sem cascas e abacaxi, finalizado com requeijão e mussarela. Acompanha arroz, batata frita e salada. (Média de 6 unidades de camarão 32gr)\nR$ 68,00",
+        "text": "Camarão havaiano\nPrato agridoce preparado com camarões sem casca e abacaxi, finalizado com requeijão e mussarela. Acompanha arroz, batata frita e salada. (Média de 6 unidades de camarão 32 g)\nR$ 68,00",
         "ids": [
           2
         ]
       },
       {
-        "text": "Parmegianas\nPreparadas com molho da casa . Acompanha arroz, salada, e batata frita. (Média de 100gr)\nTilápia R$58,00\nFrango R$48,00\nMignon R$72,00\nCamarão R$78,00",
+        "text": "Parmegianas\nPreparadas com molho da casa. Acompanham arroz, salada e batata frita. (Média de 100 g)\nTilápia R$58,00\nFrango R$48,00\nMignon R$72,00\nCamarão R$78,00",
         "ids": [
           3,
           4,
@@ -32,13 +32,13 @@
         ]
       },
       {
-        "text": "*Lombo de tilápia ao molho de camarão “\nPosta do lombo de tilápia grelhada  , coberta ao molho cremoso de camarão. ( 200 gr de tilápia )\nAcompanha arroz , fritas e salada \nR$   82,00",
+        "text": "Lombo de tilápia ao molho de camarão\nPosta de lombo de tilápia grelhada, coberta com molho cremoso de camarão. (200 g de tilápia)\nAcompanha arroz, fritas e salada \nR$   82,00",
         "ids": [
           7
         ]
       },
       {
-        "text": "“Salmão grelhado”\nSalmão grelhado com geleia de maracujá e alcaparras .( 200gr salmão ) \nAcompanha arroz , fritas e salada .\nR$ 82,00",
+        "text": "Salmão grelhado\nSalmão grelhado com geleia de maracujá e alcaparras. (200 g de salmão) \nAcompanha arroz, fritas e salada.\nR$ 82,00",
         "ids": [
           8
         ]
@@ -51,7 +51,7 @@
     "category": 2,
     "blocks": [
       {
-        "text": "Bife a cavalo\nContra filé grelhado, arroz, ovo frito, salada e batata frita\nR$42,00",
+        "text": "Bife a cavalo\nContrafilé grelhado, arroz, ovo frito, salada e batata frita\nR$42,00",
         "ids": [
           9
         ]
@@ -63,7 +63,7 @@
         ]
       },
       {
-        "text": "Grelhados/Milanesa\nAcompanha arroz, salada e batata frita\nFilé de frango R$38,00\nFilé de tilápia R$42,00\nContra filé R$42,00 ",
+        "text": "Grelhados/Milanesa\nAcompanha arroz, salada e batata frita\nFilé de frango R$38,00\nFilé de tilápia R$42,00\nContrafilé R$42,00 ",
         "ids": [
           11,
           12,
@@ -71,7 +71,7 @@
         ]
       },
       {
-        "text": "Strogonoff\nServido no molho rosé, acompanha arroz , batata frita e salada.\nMignon R$64,00\nCamarão R$68,00\nFrango R$38,00 ",
+        "text": "Strogonoff\nServido no molho rosé, acompanha arroz, batata frita e salada.\nMignon R$64,00\nCamarão R$68,00\nFrango R$38,00 ",
         "ids": [
           14,
           15,
@@ -79,13 +79,13 @@
         ]
       },
       {
-        "text": "Picadinho de carne c/ batata\nCubos de carne ao molho com batatas , acompanha arroz ,feijão e salada .",
+        "text": "Picadinho de carne com batata\nCubos de carne ao molho com batatas. Acompanha arroz, feijão e salada.",
         "ids": [
           17
         ]
       },
       {
-        "text": "*Mineiro *\nBisteca suína grelhada , acompanha arroz , tutu de feijão , ovo , banana frita e salada de couve . ",
+        "text": "Mineiro\nBisteca suína grelhada, acompanha arroz, tutu de feijão, ovo, banana frita e salada de couve. ",
         "ids": [
           18
         ]
@@ -98,43 +98,43 @@
     "category": 3,
     "blocks": [
       {
-        "text": "Fish camarão + tilápia \nCamarão e filé de tilápia a milanesa. (Média de 12 unidades do camarão e 250gr tilápia)\nR$104,00",
+        "text": "Fish camarão + tilápia \nCamarão e filé de tilápia à milanesa. (Média de 12 unidades do camarão e 250 g de tilápia)\nR$104,00",
         "ids": [
           19
         ]
       },
       {
-        "text": "Carijó\nIsca de frango a milanesa, batata frita, com queijo mussarela gratinado (média de 300gr frango, 300gr batata)\nR$104,00",
+        "text": "Carijó\nIscas de frango à milanesa, batata frita, com queijo mussarela gratinado (média de 300 g de frango e 300 g de batata)\nR$104,00",
         "ids": [
           20
         ]
       },
       {
-        "text": "A moda do pescador\nEscolha 3 peixes do nosso cardápio. (Exeto camarão , 250gr cada peixe ) \nR$96,00",
+        "text": "À moda do pescador\nEscolha 3 peixes do nosso cardápio. (Exceto camarão, 250 g de cada peixe) \nR$96,00",
         "ids": [
           21
         ]
       },
       {
-        "text": "A moda do pescador vip\nEscolha 3 peixes agora podendo escolher tbem nosso diferenciado Camarão. (Média de 250gr cada peixe e camarão 12un)\nR$146,00",
+        "text": "À moda do pescador VIP\nEscolha 3 opções, incluindo camarão. (Média de 250 g de cada peixe e 12 unidades de camarão)\nR$146,00",
         "ids": [
           22
         ]
       },
       {
-        "text": "A moda do cliente\nEscolha 3 opções de porções do nosso cardápio (Média de 250gr de cada item ou 12 un de camarão)\nR$162,00",
+        "text": "À moda do cliente\nEscolha 3 opções de porções do nosso cardápio (Média de 250 g de cada item ou 12 unidades de camarão)\nR$162,00",
         "ids": [
           23
         ]
       },
       {
-        "text": "Mix de carnes\nIscas de carne , frango grelhado e calabresa fatiada, preparado na chapa, acompanha pão de alho e batata frita. (Média de 200 gr de cada itens,  mais 300 gr de batata ) \nR$112,00",
+        "text": "Mix de carnes\nIscas de carne, frango grelhado e calabresa fatiada, preparados na chapa. Acompanha pão de alho e batata frita. (Média de 200 g de cada item, mais 300 g de batata) \nR$112,00",
         "ids": [
           24
         ]
       },
       {
-        "text": "Contra filé.\nTiras de carne  , preparadas na chapa, acompanha pão de alho e batata frita (Média de 500 gr  carne ,mais 300 gr batata ) \nR$ 132,00 ",
+        "text": "Contrafilé\nTiras de carne preparadas na chapa. Acompanha pão de alho e batata frita (Média de 500 g de carne e 300 g de batata) \nR$ 132,00 ",
         "ids": [
           25
         ]
@@ -149,53 +149,53 @@
   },
   {
     "title": "🔴Porções🔴\n💢The Fish",
-    "intro": "(500gr )",
+    "intro": "(500 g)",
     "category": 4,
     "blocks": [
       {
-        "text": "Tilápias\nIscas de filé Tilapias a milanesa \nR$86,00",
+        "text": "Tilápias\nIscas de filé de tilápia à milanesa \nR$86,00",
         "ids": [
           27
         ]
       },
       {
-        "text": "Merluza\nIsca de filé de merluza a milanesa \nR$78,00",
+        "text": "Merluza\nIscas de filé de merluza à milanesa \nR$78,00",
         "ids": [
           28
         ]
       },
       {
-        "text": "Camarão\nCamarão selecionados de tamanho médio, escolha entre  rústico ou a milanesa, com ou sem cascas ( 25 unidades)\nR$112,00",
+        "text": "Camarão\nCamarões selecionados de tamanho médio. Escolha entre rústico ou à milanesa, com ou sem casca (25 unidades)\nR$112,00",
         "ids": [
           29
         ]
       },
       {
-        "text": "Pintado\nIscas de filé de pintado milanesa. \nR$68,00",
+        "text": "Pintado\nIscas de filé de pintado à milanesa. \nR$68,00",
         "ids": [
           30
         ]
       },
       {
-        "text": "Costelinha de pacu\nServidas em posta  com osso. Contém espinhas.\nR$84,00",
+        "text": "Costelinha de pacu\nServidas em postas com osso. Contém espinhas.\nR$84,00",
         "ids": [
           31
         ]
       },
       {
-        "text": "Torresmo de pacu\nIscas de pacu a milanesa sem espinha\nR$68,00 ",
+        "text": "Torresmo de pacu\nIscas de pacu à milanesa sem espinhas\nR$68,00 ",
         "ids": [
           32
         ]
       },
       {
-        "text": "Arraia\nCubos de arraia a milanesa com geleia de pimenta\nR$78,00",
+        "text": "Arraia\nCubos de arraia à milanesa com geleia de pimenta\nR$78,00",
         "ids": [
           33
         ]
       },
       {
-        "text": "Lambari\nLambaris fritas inteiras\nR$76,00",
+        "text": "Lambari\nLambaris fritos inteiros\nR$76,00",
         "ids": [
           34
         ]
@@ -214,19 +214,19 @@
     "category": 11,
     "blocks": [
       {
-        "text": "Torresmo Caipira\nPreparado com a barriga do porco, ( panceta ) Acompanha mandioca frita. ( 250 gr de cada item ) \nR$84,00",
+        "text": "Torresmo Caipira\nPreparado com a barriga do porco (panceta). Acompanha mandioca frita. (250 g de cada item) \nR$84,00",
         "ids": [
           110
         ]
       },
       {
-        "text": "Linguiça bêbada\nLinguiça Toscana flambada na cachaça preparadas com pimentões, escolha a finalização em com ou sem o barbecue. Acompanha 2 pães de alho. (500gr)\nR$84,00",
+        "text": "Linguiça bêbada\nLinguiça Toscana flambada na cachaça preparada com pimentões. Escolha a finalização com ou sem barbecue. Acompanha 2 pães de alho. (500 g)\nR$84,00",
         "ids": [
           111
         ]
       },
       {
-        "text": "Empanados de Gouda\nQueijo Gouda, empanados e fritos, acompanha geleia de pimenta .( 500gr)\nR$74,00",
+        "text": "Empanados de Gouda\nQueijo Gouda empanado e frito, acompanha geleia de pimenta. (500 g)\nR$74,00",
         "ids": [
           112
         ]
@@ -239,61 +239,61 @@
     "category": 5,
     "blocks": [
       {
-        "text": "Isca de frango a milanesa\nPeito de frango cortado em iscas empanadas (500gr)\nR$78,00",
+        "text": "Iscas de frango à milanesa\nPeito de frango cortado em iscas empanadas (500 g)\nR$78,00",
         "ids": [
           36
         ]
       },
       {
-        "text": "Frango a Passarinho\nCoxa e sobrecoxa cortadas a passarinho acompanha batata frita (12 pedaços de frango 250 gr batata )\nR$78,00",
+        "text": "Frango a passarinho\nCoxa e sobrecoxa cortadas a passarinho. Acompanha batata frita (12 pedaços de frango e 250 g de batata)\nR$78,00",
         "ids": [
           37
         ]
       },
       {
-        "text": "Dadinhos de tapioca\nDadinhos de tapioca com coalho. Acompanha geleia de pimenta.\n(Média de 400gr)\nR$58,00",
+        "text": "Dadinhos de tapioca\nDadinhos de tapioca com coalho. Acompanha geleia de pimenta.\n(Média de 400 g)\nR$58,00",
         "ids": [
           38
         ]
       },
       {
-        "text": "Calabresa acebolada\nCalabresa grelhada , Acompanha anéis de cebola e pão de alho. (250 gr de cada )\nR$72,00",
+        "text": "Calabresa acebolada\nCalabresa grelhada. Acompanha anéis de cebola e pão de alho. (250 g de cada)\nR$72,00",
         "ids": [
           39
         ]
       },
       {
-        "text": "*Anel de cebola *\n(400gr)\nR$ 48,00",
+        "text": "Anel de cebola\n(400 g)\nR$ 48,00",
         "ids": [
           40
         ]
       },
       {
-        "text": "Batata palito\n( 500gr)\nR$44,00",
+        "text": "Batata palito\n(500 g)\nR$44,00",
         "ids": [
           41
         ]
       },
       {
-        "text": "Batata rústica\nEstilo canoa.(500gr)\nR$44,00",
+        "text": "Batata rústica\nEstilo canoa. (500 g)\nR$44,00",
         "ids": [
           42
         ]
       },
       {
-        "text": "Polenta frita\n( 500gr)\nR$44,00",
+        "text": "Polenta frita\n(500 g)\nR$44,00",
         "ids": [
           43
         ]
       },
       {
-        "text": "Mandioca Frita\nMandioca caseira\n(500gr)\nR$46,00",
+        "text": "Mandioca frita\nMandioca caseira\n(500 g)\nR$46,00",
         "ids": [
           44
         ]
       },
       {
-        "text": "*Acrescente nas fritas (batata/ polenta / mandioca )",
+        "text": "Acrescente nas fritas (batata, polenta ou mandioca)",
         "ids": [],
         "subheading": true
       },
@@ -323,31 +323,31 @@
     "category": 6,
     "blocks": [
       {
-        "text": "Ceviche\nTilápia marinada combinada com cebola roxa, tomate, pimenta e ervas frescas; Refrescante, cítrico e cheio de sabor.(200gr)\nR$38,00",
+        "text": "Ceviche\nTilápia marinada combinada com cebola roxa, tomate, pimenta e ervas frescas. Refrescante, cítrico e cheio de sabor. (200 g)\nR$38,00",
         "ids": [
           48
         ]
       },
       {
-        "text": "Espetinho de camarão\nCom 4 camarões, Escolha rústico ou a milanesa com ou sem cascas.\nR$22,00",
+        "text": "Espetinho de camarão\nCom 4 camarões. Escolha rústico ou à milanesa com ou sem casca.\nR$22,00",
         "ids": [
           49
         ]
       },
       {
-        "text": "Casquinha de siri\nCarne de siri bem temperada com especiarias gratinada com queijo mussarela. (100gr)\nR$28,00",
+        "text": "Casquinha de siri\nCarne de siri bem temperada com especiarias gratinada com queijo mussarela. (100 g)\nR$28,00",
         "ids": [
           50
         ]
       },
       {
-        "text": "Pirão do Professor\nCaldo a base de peixes e camarões, levemente apimentado, acompanha torradas\n(300 ml )\nR$34,00",
+        "text": "Pirão do Professor\nCaldo à base de peixes e camarões, levemente apimentado, acompanha torradas\n(300 ml)\nR$34,00",
         "ids": [
           51
         ]
       },
       {
-        "text": "Camarão Recheado\nCamarão envolvido com requeijão a milanesa e  frito\nR$ 18,00",
+        "text": "Camarão Recheado\nCamarão envolvido com requeijão, empanado e frito\nR$ 18,00",
         "ids": [
           52
         ]
@@ -360,25 +360,25 @@
     "category": 7,
     "blocks": [
       {
-        "text": "Batata palito ( 150gr) 22,00",
+        "text": "Batata palito (150 g) 22,00",
         "ids": [
           53
         ]
       },
       {
-        "text": "Batata rústica ( 150gr) 22,00",
+        "text": "Batata rústica (150 g) 22,00",
         "ids": [
           54
         ]
       },
       {
-        "text": "Isca Tilápia ( 200gr) 42,00",
+        "text": "Iscas de tilápia (200 g) 42,00",
         "ids": [
           55
         ]
       },
       {
-        "text": "Isca de frango ( 200gr) 38,00",
+        "text": "Iscas de frango (200 g) 38,00",
         "ids": [
           56
         ]
@@ -421,7 +421,7 @@
         ]
       },
       {
-        "text": "Salada simples ( 12,00)",
+        "text": "Salada simples (12,00)",
         "ids": [
           62
         ]
@@ -445,7 +445,7 @@
         ]
       },
       {
-        "text": "Coca cola ks 8,00",
+        "text": "Coca-Cola ks 8,00",
         "ids": [
           64
         ]
@@ -475,19 +475,19 @@
         ]
       },
       {
-        "text": "Coca cola 2lt 20,00",
+        "text": "Coca-Cola 2lt 20,00",
         "ids": [
           69
         ]
       },
       {
-        "text": "H2o 600ml 8,00",
+        "text": "H2O 600ml 8,00",
         "ids": [
           70
         ]
       },
       {
-        "text": "Delvalle lata 8,00",
+        "text": "Del Valle lata 8,00",
         "ids": [
           71
         ]
@@ -511,7 +511,7 @@
         ]
       },
       {
-        "text": "Suco Laranja 400ml 12,00",
+        "text": "Suco de laranja 400ml 12,00",
         "ids": [
           75
         ]
@@ -630,7 +630,7 @@
         ]
       },
       {
-        "text": "Caipifrutas\nCachaça ( consulte as frutas)\nR$ 28,00",
+        "text": "Caipifrutas\nCachaça (consulte as frutas)\nR$ 28,00",
         "ids": [
           92
         ]
@@ -642,7 +642,7 @@
         ]
       },
       {
-        "text": "Batidas frutas\nVinho / saque /  vodka / cachaça\nC/ leite condensado\nR$ 28,00",
+        "text": "Batidas de frutas\nVinho / saquê / vodka / cachaça\nCom leite condensado\nR$ 28,00",
         "ids": [
           94
         ]
