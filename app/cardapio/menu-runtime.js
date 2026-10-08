@@ -13,7 +13,10 @@ let selected=0, cart=[];
 try{const saved=JSON.parse(localStorage.getItem('thefish-cart-original-v2')||'[]');if(Array.isArray(saved))cart=saved.filter(x=>products[x.id]&&Number.isInteger(x.qty)&&x.qty>0&&x.qty<=99&&typeof x.detail==='string').map(x=>({id:x.id,qty:x.qty,detail:x.detail.slice(0,300),extra:x.extra===12&&(hasShrimp(products[x.id])||products[x.id].options==='vip')?12:0}));}catch{}
 const escapeHTML=s=>s.replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 function render(){
- $('categories').innerHTML=categories.map((c,i)=>`<button class="${i===selected?'active':''}" aria-pressed="${i===selected}" data-category="${i}">${categoryLabel(c,i)}</button>`).join('');
+ const categoryScroll=$('categories').scrollLeft;
+ const categoryOrder=[0,...sections.map(s=>s.category)];
+ $('categories').innerHTML=categoryOrder.map(i=>{const c=categories[i];return `<button class="${i===selected?'active':''}" aria-pressed="${i===selected}" data-category="${i}">${categoryLabel(c,i)}</button>`;}).join('');
+ $('categories').scrollLeft=categoryScroll;
  const norm=s=>s.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
  const terms=norm($('search').value).trim().split(/\s+/).filter(Boolean);
  let count=0;
