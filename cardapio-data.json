@@ -209,6 +209,31 @@
     ]
   },
   {
+    "title": "Porções🔴\n💢Boteco",
+    "intro": "",
+    "category": 11,
+    "blocks": [
+      {
+        "text": "Torresmo Caipira\nPreparado com a barriga do porco, ( panceta ) Acompanha mandioca frita. ( 250 gr de cada item ) \nR$84,00",
+        "ids": [
+          110
+        ]
+      },
+      {
+        "text": "Linguiça bêbada\nLinguiça Toscana flambada na cachaça preparadas com pimentões, escolha a finalização em com ou sem o barbecue. Acompanha 2 pães de alho. (500gr)\nR$84,00",
+        "ids": [
+          111
+        ]
+      },
+      {
+        "text": "Empanados de Gouda\nQueijo Gouda, empanados e fritos, acompanha geleia de pimenta .( 500gr)\nR$74,00",
+        "ids": [
+          112
+        ]
+      }
+    ]
+  },
+  {
     "title": "🔴Porções🔴\n💢Clássicas",
     "intro": "",
     "category": 5,
