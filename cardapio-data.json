@@ -1,0 +1,722 @@
+[
+  {
+    "title": "🔴Pratos do chef🔴",
+    "intro": "“Individual “",
+    "category": 1,
+    "blocks": [
+      {
+        "text": "Camarão na moranga\nCreme de abóbora preparado com requeijão, mussarela e camarões sem cascas. Acompanha arroz, batata frita e salada.\n(Média de 6 unidades de camarão 32gr)\nR$68,00",
+        "ids": [
+          0
+        ]
+      },
+      {
+        "text": "Chiclete de camarão\nCamarão sem casca, finalizado com cream cheese e queijo mussarela. Acompanha arroz, batata frita e salada. (Média de 6 unidades de camarão 32gr)\nR$ 68,00",
+        "ids": [
+          1
+        ]
+      },
+      {
+        "text": "Camarão havaiano\nPrato agridoce preparado com camarões sem cascas e abacaxi, finalizado com requeijão e mussarela. Acompanha arroz, batata frita e salada. (Média de 6 unidades de camarão 32gr)\nR$ 68,00",
+        "ids": [
+          2
+        ]
+      },
+      {
+        "text": "Parmegianas\nPreparadas com molho da casa . Acompanha arroz, salada, e batata frita. (Média de 100gr)\nTilápia R$58,00\nFrango R$48,00\nMignon R$72,00\nCamarão R$78,00",
+        "ids": [
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "text": "*Lombo de tilápia ao molho de camarão “\nPosta do lombo de tilápia grelhada  , coberta ao molho cremoso de camarão. ( 200 gr de tilápia )\nAcompanha arroz , fritas e salada \nR$   82,00",
+        "ids": [
+          7
+        ]
+      },
+      {
+        "text": "“Salmão grelhado”\nSalmão grelhado com geleia de maracujá e alcaparras .( 200gr salmão ) \nAcompanha arroz , fritas e salada .\nR$ 82,00",
+        "ids": [
+          8
+        ]
+      }
+    ]
+  },
+  {
+    "title": "🔴Pratos executivos🔴",
+    "intro": "",
+    "category": 2,
+    "blocks": [
+      {
+        "text": "Bife a cavalo\nContra filé grelhado, arroz, ovo frito, salada e batata frita\nR$42,00",
+        "ids": [
+          9
+        ]
+      },
+      {
+        "text": "Omelete\nOmelete recheado com mussarela, arroz, salada e batata frita\nR$38,00",
+        "ids": [
+          10
+        ]
+      },
+      {
+        "text": "Grelhados/Milanesa\nAcompanha arroz, salada e batata frita\nFilé de frango R$38,00\nFilé de tilápia R$42,00\nContra filé R$42,00 ",
+        "ids": [
+          11,
+          12,
+          13
+        ]
+      },
+      {
+        "text": "Strogonoff\nServido no molho rosé, acompanha arroz , batata frita e salada.\nMignon R$64,00\nCamarão R$68,00\nFrango R$38,00 ",
+        "ids": [
+          14,
+          15,
+          16
+        ]
+      },
+      {
+        "text": "Picadinho de carne c/ batata\nCubos de carne ao molho com batatas , acompanha arroz ,feijão e salada .",
+        "ids": [
+          17
+        ]
+      },
+      {
+        "text": "*Mineiro *\nBisteca suína grelhada , acompanha arroz , tutu de feijão , ovo , banana frita e salada de couve . ",
+        "ids": [
+          18
+        ]
+      }
+    ]
+  },
+  {
+    "title": "🔴Combinados na tábua🔴",
+    "intro": "",
+    "category": 3,
+    "blocks": [
+      {
+        "text": "Fish camarão + tilápia \nCamarão e filé de tilápia a milanesa. (Média de 12 unidades do camarão e 250gr tilápia)\nR$104,00",
+        "ids": [
+          19
+        ]
+      },
+      {
+        "text": "Carijó\nIsca de frango a milanesa, batata frita, com queijo mussarela gratinado (média de 300gr frango, 300gr batata)\nR$104,00",
+        "ids": [
+          20
+        ]
+      },
+      {
+        "text": "A moda do pescador\nEscolha 3 peixes do nosso cardápio. (Exeto camarão , 250gr cada peixe ) \nR$96,00",
+        "ids": [
+          21
+        ]
+      },
+      {
+        "text": "A moda do pescador vip\nEscolha 3 peixes agora podendo escolher tbem nosso diferenciado Camarão. (Média de 250gr cada peixe e camarão 12un)\nR$146,00",
+        "ids": [
+          22
+        ]
+      },
+      {
+        "text": "A moda do cliente\nEscolha 3 opções de porções do nosso cardápio (Média de 250gr de cada item ou 12 un de camarão)\nR$162,00",
+        "ids": [
+          23
+        ]
+      },
+      {
+        "text": "Mix de carnes\nIscas de carne , frango grelhado e calabresa fatiada, preparado na chapa, acompanha pão de alho e batata frita. (Média de 200 gr de cada itens,  mais 300 gr de batata ) \nR$112,00",
+        "ids": [
+          24
+        ]
+      },
+      {
+        "text": "Contra filé.\nTiras de carne  , preparadas na chapa, acompanha pão de alho e batata frita (Média de 500 gr  carne ,mais 300 gr batata ) \nR$ 132,00 ",
+        "ids": [
+          25
+        ]
+      },
+      {
+        "text": "COMBO ACOMPANHAMENTO \nArroz / feijão / salada \nR$ 18,00",
+        "ids": [
+          26
+        ]
+      }
+    ]
+  },
+  {
+    "title": "🔴Porções🔴\n💢The Fish",
+    "intro": "(500gr )",
+    "category": 4,
+    "blocks": [
+      {
+        "text": "Tilápias\nIscas de filé Tilapias a milanesa \nR$86,00",
+        "ids": [
+          27
+        ]
+      },
+      {
+        "text": "Merluza\nIsca de filé de merluza a milanesa \nR$78,00",
+        "ids": [
+          28
+        ]
+      },
+      {
+        "text": "Camarão\nCamarão selecionados de tamanho médio, escolha entre  rústico ou a milanesa, com ou sem cascas ( 25 unidades)\nR$112,00",
+        "ids": [
+          29
+        ]
+      },
+      {
+        "text": "Pintado\nIscas de filé de pintado milanesa. \nR$68,00",
+        "ids": [
+          30
+        ]
+      },
+      {
+        "text": "Costelinha de pacu\nServidas em posta  com osso. Contém espinhas.\nR$84,00",
+        "ids": [
+          31
+        ]
+      },
+      {
+        "text": "Torresmo de pacu\nIscas de pacu a milanesa sem espinha\nR$68,00 ",
+        "ids": [
+          32
+        ]
+      },
+      {
+        "text": "Arraia\nCubos de arraia a milanesa com geleia de pimenta\nR$78,00",
+        "ids": [
+          33
+        ]
+      },
+      {
+        "text": "Lambari\nLambaris fritas inteiras\nR$76,00",
+        "ids": [
+          34
+        ]
+      },
+      {
+        "text": "Manjubas\nManjubinhas inteiras  \nR$76,00 ",
+        "ids": [
+          35
+        ]
+      }
+    ]
+  },
+  {
+    "title": "🔴Porções🔴\n💢Clássicas",
+    "intro": "",
+    "category": 5,
+    "blocks": [
+      {
+        "text": "Isca de frango a milanesa\nPeito de frango cortado em iscas empanadas (500gr)\nR$78,00",
+        "ids": [
+          36
+        ]
+      },
+      {
+        "text": "Frango a Passarinho\nCoxa e sobrecoxa cortadas a passarinho acompanha batata frita (12 pedaços de frango 250 gr batata )\nR$78,00",
+        "ids": [
+          37
+        ]
+      },
+      {
+        "text": "Dadinhos de tapioca\nDadinhos de tapioca com coalho. Acompanha geleia de pimenta.\n(Média de 400gr)\nR$58,00",
+        "ids": [
+          38
+        ]
+      },
+      {
+        "text": "Calabresa acebolada\nCalabresa grelhada , Acompanha anéis de cebola e pão de alho. (250 gr de cada )\nR$72,00",
+        "ids": [
+          39
+        ]
+      },
+      {
+        "text": "*Anel de cebola *\n(400gr)\nR$ 48,00",
+        "ids": [
+          40
+        ]
+      },
+      {
+        "text": "Batata palito\n( 500gr)\nR$44,00",
+        "ids": [
+          41
+        ]
+      },
+      {
+        "text": "Batata rústica\nEstilo canoa.(500gr)\nR$44,00",
+        "ids": [
+          42
+        ]
+      },
+      {
+        "text": "Polenta frita\n( 500gr)\nR$44,00",
+        "ids": [
+          43
+        ]
+      },
+      {
+        "text": "Mandioca Frita\nMandioca caseira\n(500gr)\nR$46,00",
+        "ids": [
+          44
+        ]
+      },
+      {
+        "text": "*Acrescente nas fritas (batata/ polenta / mandioca )",
+        "ids": [],
+        "subheading": true
+      },
+      {
+        "text": "•cheddar 12,00",
+        "ids": [
+          45
+        ]
+      },
+      {
+        "text": "•queijo 12,00",
+        "ids": [
+          46
+        ]
+      },
+      {
+        "text": "•bacon 12,00",
+        "ids": [
+          47
+        ]
+      }
+    ]
+  },
+  {
+    "title": "🔴Unitários🔴",
+    "intro": "",
+    "category": 6,
+    "blocks": [
+      {
+        "text": "Ceviche\nTilápia marinada combinada com cebola roxa, tomate, pimenta e ervas frescas; Refrescante, cítrico e cheio de sabor.(200gr)\nR$38,00",
+        "ids": [
+          48
+        ]
+      },
+      {
+        "text": "Espetinho de camarão\nCom 4 camarões, Escolha rústico ou a milanesa com ou sem cascas.\nR$22,00",
+        "ids": [
+          49
+        ]
+      },
+      {
+        "text": "Casquinha de siri\nCarne de siri bem temperada com especiarias gratinada com queijo mussarela. (100gr)\nR$28,00",
+        "ids": [
+          50
+        ]
+      },
+      {
+        "text": "Pirão do Professor\nCaldo a base de peixes e camarões, levemente apimentado, acompanha torradas\n(300 ml )\nR$34,00",
+        "ids": [
+          51
+        ]
+      },
+      {
+        "text": "Camarão Recheado\nCamarão envolvido com requeijão a milanesa e  frito\nR$ 18,00",
+        "ids": [
+          52
+        ]
+      }
+    ]
+  },
+  {
+    "title": "🔴 PORÇÕES🔴\nKids",
+    "intro": "",
+    "category": 7,
+    "blocks": [
+      {
+        "text": "Batata palito ( 150gr) 22,00",
+        "ids": [
+          53
+        ]
+      },
+      {
+        "text": "Batata rústica ( 150gr) 22,00",
+        "ids": [
+          54
+        ]
+      },
+      {
+        "text": "Isca Tilápia ( 200gr) 42,00",
+        "ids": [
+          55
+        ]
+      },
+      {
+        "text": "Isca de frango ( 200gr) 38,00",
+        "ids": [
+          56
+        ]
+      }
+    ]
+  },
+  {
+    "title": "🔴ADICIONAIS 🔴",
+    "intro": "",
+    "category": 8,
+    "blocks": [
+      {
+        "text": "Pão francês 3,00",
+        "ids": [
+          57
+        ]
+      },
+      {
+        "text": "Pão de alho 6,00",
+        "ids": [
+          58
+        ]
+      },
+      {
+        "text": "Arroz 14,00",
+        "ids": [
+          59
+        ]
+      },
+      {
+        "text": "Feijão 14,00",
+        "ids": [
+          60
+        ]
+      },
+      {
+        "text": "Pirão do professor 12,00",
+        "ids": [
+          61
+        ]
+      },
+      {
+        "text": "Salada simples ( 12,00)",
+        "ids": [
+          62
+        ]
+      }
+    ]
+  },
+  {
+    "title": "🔴Bebidas🔴",
+    "intro": "",
+    "category": 9,
+    "blocks": [
+      {
+        "text": "*Refrigerante / suco / água",
+        "ids": [],
+        "subheading": true
+      },
+      {
+        "text": "Refrigerante lata 8,00",
+        "ids": [
+          63
+        ]
+      },
+      {
+        "text": "Coca cola ks 8,00",
+        "ids": [
+          64
+        ]
+      },
+      {
+        "text": "Tubaína 600ml 8,00",
+        "ids": [
+          65
+        ]
+      },
+      {
+        "text": "Refrigerante 600ml 10,00",
+        "ids": [
+          66
+        ]
+      },
+      {
+        "text": "Refrigerante 1lt 12,00",
+        "ids": [
+          67
+        ]
+      },
+      {
+        "text": "Refrigerante sabores 2lt 12,00",
+        "ids": [
+          68
+        ]
+      },
+      {
+        "text": "Coca cola 2lt 20,00",
+        "ids": [
+          69
+        ]
+      },
+      {
+        "text": "H2o 600ml 8,00",
+        "ids": [
+          70
+        ]
+      },
+      {
+        "text": "Delvalle lata 8,00",
+        "ids": [
+          71
+        ]
+      },
+      {
+        "text": "Água tônica 8,00",
+        "ids": [
+          72
+        ]
+      },
+      {
+        "text": "Água 5,00",
+        "ids": [
+          73
+        ]
+      },
+      {
+        "text": "Água com gás 5,00",
+        "ids": [
+          74
+        ]
+      },
+      {
+        "text": "Suco Laranja 400ml 12,00",
+        "ids": [
+          75
+        ]
+      },
+      {
+        "text": "Cervejas garrafa 600ml",
+        "ids": [],
+        "subheading": true
+      },
+      {
+        "text": "Heineken 16,00",
+        "ids": [
+          76
+        ]
+      },
+      {
+        "text": "Original 16,00",
+        "ids": [
+          77
+        ]
+      },
+      {
+        "text": "Boa 15,00",
+        "ids": [
+          78
+        ]
+      },
+      {
+        "text": "Skol 15,00",
+        "ids": [
+          79
+        ]
+      },
+      {
+        "text": "Spaten 15,00",
+        "ids": [
+          80
+        ]
+      },
+      {
+        "text": "Amstel 14,00",
+        "ids": [
+          81
+        ]
+      },
+      {
+        "text": "Sub-Zero 12,00",
+        "ids": [
+          82
+        ]
+      },
+      {
+        "text": "Latas e Longs",
+        "ids": [],
+        "subheading": true
+      },
+      {
+        "text": "Boa 350ml 7,00",
+        "ids": [
+          83
+        ]
+      },
+      {
+        "text": "Skol 350ml 7,00",
+        "ids": [
+          84
+        ]
+      },
+      {
+        "text": "Heineken long 12,00",
+        "ids": [
+          85
+        ]
+      },
+      {
+        "text": "Corona long  14,00",
+        "ids": [
+          86
+        ]
+      },
+      {
+        "text": "Malzbier long 12,00",
+        "ids": [
+          87
+        ]
+      },
+      {
+        "text": "Smirnoff Ice long 16,00",
+        "ids": [
+          88
+        ]
+      },
+      {
+        "text": "Chopp vinho 600ml 18,00",
+        "ids": [
+          89
+        ]
+      },
+      {
+        "text": "Energético lata 16,00",
+        "ids": [
+          90
+        ]
+      }
+    ]
+  },
+  {
+    "title": "🔴Drink🔴",
+    "intro": "",
+    "category": 10,
+    "blocks": [
+      {
+        "text": "Caipirinha\nCachaça, limão.\nR$24,00",
+        "ids": [
+          91
+        ]
+      },
+      {
+        "text": "Caipifrutas\nCachaça ( consulte as frutas)\nR$ 28,00",
+        "ids": [
+          92
+        ]
+      },
+      {
+        "text": "Caipirosca\nSmirnoff e frutas\nR$28,00",
+        "ids": [
+          93
+        ]
+      },
+      {
+        "text": "Batidas frutas\nVinho / saque /  vodka / cachaça\nC/ leite condensado\nR$ 28,00",
+        "ids": [
+          94
+        ]
+      },
+      {
+        "text": "Gin Tônica\nGin, Água tônica, Limão.\nR$28,00",
+        "ids": [
+          95
+        ]
+      },
+      {
+        "text": "Doses",
+        "ids": [],
+        "subheading": true
+      },
+      {
+        "text": "Cachaça 4,00",
+        "ids": [
+          96
+        ]
+      },
+      {
+        "text": "Cachaça artesanal 5,00",
+        "ids": [
+          97
+        ]
+      },
+      {
+        "text": "Seleta 5,00",
+        "ids": [
+          98
+        ]
+      },
+      {
+        "text": "Ipioca 6,00",
+        "ids": [
+          99
+        ]
+      },
+      {
+        "text": "Canelinha 5,00",
+        "ids": [
+          100
+        ]
+      },
+      {
+        "text": "Conhaque 8,00",
+        "ids": [
+          101
+        ]
+      },
+      {
+        "text": "Smirnoff 16,00",
+        "ids": [
+          102
+        ]
+      },
+      {
+        "text": "Vinho suave / seco 14,00",
+        "ids": [
+          103
+        ]
+      },
+      {
+        "text": "Whisky 18,00",
+        "ids": [
+          104
+        ]
+      },
+      {
+        "text": "Campari 16,00",
+        "ids": [
+          105
+        ]
+      },
+      {
+        "text": "Licor Dom Luiz 14,00",
+        "ids": [
+          106
+        ]
+      },
+      {
+        "text": "CDB 4,00",
+        "ids": [
+          107
+        ]
+      },
+      {
+        "text": "Limão 2,00",
+        "ids": [
+          108
+        ]
+      },
+      {
+        "text": "Gelo 1,00",
+        "ids": [
+          109
+        ]
+      }
+    ]
+  }
+]
